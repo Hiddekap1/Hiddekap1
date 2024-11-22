@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hello, I'm Hidde
 
-<!--
-**Hiddekap1/Hiddekap1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧑‍💻 About Me
+
+
+- 🎓 **Education**: Software Development - Bit Academy/Talland College Purmerend
+- 🌍 **Location**: North-Holland
+- 🔗 **Website**: Nothing yet...
+- 📧 **Email**: Hiddekap@gmail.com
+
+
+## 🔧 Technologies & Tools
+
+
+I work with a range of technologies to build innovative solutions. Here are some of the key tools and languages I use:
+
+
+- **Programming Languages**: Python, JavaScript, Java, PHP
+- **Web Development**: HTML, CSS, React, Node.js
+- **Version Control**: Git, GitHub
+
+
+## 🤝 How to Reach Me
+
+
+Feel free to reach out to me for collaboration or to discuss interesting projects. You can contact me through the following channels:
+
+
+- 📧 **Email**: Hiddekap@gmail.com
+- 🌐 **Website**: Nothing yet...
+
+
+## 📈 GitHub Stats
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
+---
+
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories! 🚀
+
+https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical
