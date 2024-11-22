@@ -42,7 +42,3 @@ Feel free to reach out to me for collaboration or to discuss interesting project
 
 ---
 
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories! 🚀
-
-https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical
